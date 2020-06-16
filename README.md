@@ -1,2 +1,2 @@
 # Social-Media-Icons
-Simple social media
+Simple social media icons created by using simple HTML and CSS 
