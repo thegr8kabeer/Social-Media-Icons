@@ -10,5 +10,6 @@ Below is a preview of the code:
 Martin Fowler once said:
 >“If you have to spend effort looking at a fragment of code and figuring out what it's doing, then you should extract it into a function and name the function after the "what".”
 
-Happy Coding!!! 
-And don't forget to follow me on instagram at https://instagram.com/thegr8kabeer/
+Happy Coding!!! :smiley:
+
+And don't forget to follow me on [Twitter](https://twitter.com/thegr8kabeer)
